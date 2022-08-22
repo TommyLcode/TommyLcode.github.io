@@ -4,41 +4,15 @@ body{
   font-family: monospace;
   margin: 10% 15%;
 }
-.main{
-  text-align:center;
-  border-top: 2px solid black;
-  border-bottom: 2px solid black;
-  background-color: grey;
-  color: black;
-}
 .intro{
   text-align: center;
 }
 .header{
   text-align: center;
-  text-transform: uppercase;
   border-top: 2px solid black;
   border-bottom: 2px solid black;
   background-color: grey;
   color: black;
 }
-.bmw{
+.work{
   text-decoration: solid underline;
-}
-.chev{
-  text-decoration: solid underline;
-}
-.fleet{
-  text-decoration: solid underline;
-}
-.lofton{
-  text-decoration: solid underline;
-}
-.edu{
-  text-align: center;
-  text-transform: uppercase;
-  border-top: 2px solid black;
-  border-bottom: 2px solid black;
-  background-color: grey;
-  color: black;
-}
