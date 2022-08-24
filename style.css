@@ -1,18 +1,28 @@
 body{
-  background-color: lightgrey;
-  color: black;
-  font-family: monospace;
-  margin: 10% 15%;
+  background: #585c68;
+  font-size: 14px;
+  color: white;
+  font-family: open-sans, sans-serif;
+  margin: 5% 25%;
+  padding: 30px;
+  padding-top: 0px;
 }
 .intro{
   text-align: center;
 }
 .header{
   text-align: center;
-  border-top: 2px solid black;
-  border-bottom: 2px solid black;
-  background-color: grey;
+  border: 2px solid black;
+  background-color: silver;
   color: black;
 }
 .work{
   text-decoration: solid underline;
+}
+.img{
+  text-align: center; 
+  margin-bottom: 3%;
+  border: 2px solid black;
+  padding: 5px;
+  background: silver;
+}
