@@ -1,28 +1,25 @@
-body{
-  background: #585c68;
-  font-size: 14px;
+body {
+  background-image: url(https://wallpaper.dog/large/17012067.jpg);
+  font-family: 'Lato', sans-serif;
   color: white;
-  font-family: open-sans, sans-serif;
   margin: 5% 25%;
-  padding: 30px;
-  padding-top: 0px;
+  text-align: left;
+  position: relative;
+  padding: 18px 20px;
 }
 .intro{
   text-align: center;
 }
 .header{
   text-align: center;
-  border: 2px solid black;
+  display: block;
+  padding: 1px 25px 1px 25px;
+  letter-spacing: 2px;
+  border-style: double;
   background-color: silver;
   color: black;
+  border-color: #1E90FF;
 }
 .work{
   text-decoration: solid underline;
-}
-.img{
-  text-align: center; 
-  margin-bottom: 3%;
-  border: 2px solid black;
-  padding: 10px;
-  background: silver;
 }
